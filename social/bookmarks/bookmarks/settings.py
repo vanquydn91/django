@@ -131,7 +131,7 @@ EMALL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 #Email
 EMAIL_HOST = 'smtp.gamil.com'
 EMAIL_HOST_USER = 'vanquy.dn91@gmail.com'
-EMAIL_HOST_PASSWORD = 'vanquy1991'
+EMAIL_HOST_PASSWORD = 'password_gmail'
 EMAIL_PORT = 578
 EMAIL_USE_TLS = True
 
